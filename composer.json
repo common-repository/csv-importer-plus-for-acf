@@ -1,0 +1,21 @@
+{
+  "name": "beni/csv-importer-plus-for-acf",
+  "description": "CSV Importer Plus for ACF is a powerful and user-friendly plugin that allows you to effortlessly import and map CSV data into your posts, pages, and custom post types. With support for a wide range of standard post/page fields and ACF fields, this plugin provides a seamless solution for managing data in WordPress. Unlock even more with the premium version, offering advanced support for 20+ acf fields, including Repeater, Flexible Content, Gallery, WYSIWYG Editor, and more. CSV Importer Plus for ACF is perfect for developers and content creators looking to streamline their workflow and enhance their ACF and content management capabilities.",
+  "type": "project",
+  "license": "GPLv2",
+  "autoload": {
+    "psr-4": {
+      "CIPFA\\": "./includes"
+    }
+  },
+  "authors": [
+    {
+      "name": "Mobeen Raheem",
+      "email": "mobeenraheem@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "league/csv": "^9.16"
+  }
+}

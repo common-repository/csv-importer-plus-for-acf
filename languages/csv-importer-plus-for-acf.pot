@@ -1,0 +1,447 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CSV "
+"Importer Plus for ACF "
+"v1.0.7\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"POT-Creation-Date: "
+"2024-10-15 13:24+0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: Your Team "
+"<translations@example."
+"com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; "
+"charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; "
+"plural=n != 1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: __;"
+"_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit "
+"3.4.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: csv-importer-plus-for-acf.php:68
+msgid ""
+"CSV Importer Plus for ACF "
+"requires the Advanced "
+"Custom Fields (ACF) "
+"plugin or Secure Custom "
+"Fields (SCF) to be "
+"installed and activated. "
+"The plugin has been "
+"deactivated."
+msgstr ""
+
+#: includes/api/callbacks/CIPFA_PagesCallBacks.php:35
+msgid ""
+"Nonce verification failed."
+msgstr ""
+
+#: includes/api/callbacks/CIPFA_PagesCallBacks.php:39
+#: includes/base/CIPFA_FileHandler.php:24
+#: templates/mapping-form.php:26
+msgid ""
+"Nonce field is missing."
+msgstr ""
+
+#: includes/base/CIPFA_CsvImporter.php:44
+msgid "Invalid JSON data."
+msgstr ""
+
+#: includes/base/CIPFA_CsvImporter.php:48
+msgid "CSV data is missing."
+msgstr ""
+
+#: includes/base/CIPFA_CsvImporter.php:105
+msgid ""
+"posts imported "
+"successfully! Total "
+"chunks imported: "
+msgstr ""
+
+#: includes/base/CIPFA_FileHandler.php:21
+#: templates/mapping-form.php:23
+msgid ""
+"Nonce verification "
+"failed. Please try again."
+msgstr ""
+
+#: includes/base/CIPFA_FileHandler.php:29
+msgid ""
+"No CSV file uploaded."
+msgstr ""
+
+#: includes/base/CIPFA_SettingsLinks.php:26
+msgid ""
+"CSV Importer Plus Pro for "
+"ACF"
+msgstr ""
+
+#: includes/base/CIPFA_SettingsLinks.php:37
+msgid "Get help"
+msgstr ""
+
+#: includes/base/CIPFA_SettingsLinks.php:37
+msgid "Support"
+msgstr ""
+
+#: includes/base/CIPFA_SettingsLinks.php:38
+msgid "Plugin Homepage"
+msgstr ""
+
+#: includes/base/CIPFA_SettingsLinks.php:39
+#: includes/base/CIPFA_SettingsLinks.php:68
+msgid "Rate the plugin"
+msgstr ""
+
+#: includes/base/CIPFA_SettingsLinks.php:39
+msgid ""
+"Rate the plugin ★★★★★"
+msgstr ""
+
+#: includes/base/CIPFA_SettingsLinks.php:68
+msgid ""
+"to help us spread the "
+"word. Thank you from the "
+"CSV Importer Plus for ACF "
+"team!"
+msgstr ""
+
+#: templates/mapping-form.php:54
+#: templates/mapping-form.php:63
+msgid "Error:"
+msgstr ""
+
+#: templates/mapping-form.php:55
+msgid ""
+"The CSV file contains "
+"duplicate column names. "
+"Please ensure all column "
+"names are unique and try "
+"again."
+msgstr ""
+
+#: templates/mapping-form.php:94
+msgid ""
+"Map CSV Columns to Post "
+"Fields and ACF Fields"
+msgstr ""
+
+#: templates/mapping-form.php:109
+msgid "CSV Column"
+msgstr ""
+
+#: templates/mapping-form.php:112
+msgid "Field"
+msgstr ""
+
+#: templates/mapping-form.php:127
+msgid "Select Field"
+msgstr ""
+
+#: templates/mapping-form.php:133
+#: templates/mapping-form.php:167
+msgid "Post ID"
+msgstr ""
+
+#: templates/mapping-form.php:136
+#: templates/mapping-form.php:170
+msgid "Title"
+msgstr ""
+
+#: templates/mapping-form.php:138
+#: templates/mapping-form.php:172
+msgid "Published Date"
+msgstr ""
+
+#: templates/mapping-form.php:140
+#: templates/mapping-form.php:174
+msgid "Content"
+msgstr ""
+
+#: templates/mapping-form.php:142
+#: templates/mapping-form.php:176
+msgid "Excerpt"
+msgstr ""
+
+#: templates/mapping-form.php:144
+#: templates/mapping-form.php:178
+msgid "Featured Image"
+msgstr ""
+
+#: templates/mapping-form.php:146
+msgid "Categories"
+msgstr ""
+
+#: templates/mapping-form.php:148
+msgid "Tags"
+msgstr ""
+
+#: templates/mapping-form.php:150
+#: templates/mapping-form.php:186
+msgid "Author Usernames"
+msgstr ""
+
+#: templates/mapping-form.php:152
+#: templates/mapping-form.php:188
+msgid "Author Emails"
+msgstr ""
+
+#: templates/mapping-form.php:154
+#: templates/mapping-form.php:190
+msgid "Author Passwords"
+msgstr ""
+
+#: templates/mapping-form.php:156
+msgid "Post Status"
+msgstr ""
+
+#: templates/mapping-form.php:158
+#: templates/mapping-form.php:194
+msgid ""
+"Comments (enable/disable)"
+msgstr ""
+
+#: templates/mapping-form.php:160
+msgid ""
+"Pings (enable/disable)"
+msgstr ""
+
+#: templates/mapping-form.php:180
+msgid "Page's Parent"
+msgstr ""
+
+#: templates/mapping-form.php:182
+msgid "Page's Order"
+msgstr ""
+
+#: templates/mapping-form.php:184
+msgid "Page's Template"
+msgstr ""
+
+#: templates/mapping-form.php:192
+msgid "Page Status"
+msgstr ""
+
+#: templates/mapping-form.php:308
+msgid ""
+"No ACF field groups found "
+"for this post type"
+msgstr ""
+
+#: templates/mapping-form.php:321
+msgid "Import Data"
+msgstr ""
+
+#: templates/upgrade.php:20
+msgid "Lifetime Access"
+msgstr ""
+
+#: templates/upgrade.php:21
+msgid ""
+"Unlock even more with the "
+"premium version, "
+"featuring advanced ACF "
+"fields listed below. "
+"Enhance your workflow and "
+"gain access to exclusive "
+"features tailored for "
+"professionals."
+msgstr ""
+
+#: templates/upgrade.php:31
+msgid "File"
+msgstr ""
+
+#: templates/upgrade.php:37
+msgid "Link"
+msgstr ""
+
+#: templates/upgrade.php:43
+msgid "Post Object"
+msgstr ""
+
+#: templates/upgrade.php:49
+msgid "Relationship"
+msgstr ""
+
+#: templates/upgrade.php:55
+msgid "Gallery"
+msgstr ""
+
+#: templates/upgrade.php:61
+msgid "Checkbox"
+msgstr ""
+
+#: templates/upgrade.php:67
+msgid "Radio Button"
+msgstr ""
+
+#: templates/upgrade.php:73
+msgid "WYSIWYG Editor"
+msgstr ""
+
+#: templates/upgrade.php:79
+msgid "oEmbed"
+msgstr ""
+
+#: templates/upgrade.php:85
+msgid "Page Link"
+msgstr ""
+
+#: templates/upgrade.php:91
+msgid "Taxonomy"
+msgstr ""
+
+#: templates/upgrade.php:97
+msgid "User"
+msgstr ""
+
+#: templates/upgrade.php:103
+msgid "Google Map"
+msgstr ""
+
+#: templates/upgrade.php:109
+msgid "Date Time Picker"
+msgstr ""
+
+#: templates/upgrade.php:115
+msgid "Time Picker"
+msgstr ""
+
+#: templates/upgrade.php:121
+msgid "Color Picker"
+msgstr ""
+
+#: templates/upgrade.php:127
+msgid "Icon Picker"
+msgstr ""
+
+#: templates/upgrade.php:133
+msgid "Flexible Content"
+msgstr ""
+
+#: templates/upgrade.php:139
+msgid ""
+"Pay once, own it forever"
+msgstr ""
+
+#: templates/upgrade.php:141
+msgid "$49.99"
+msgstr ""
+
+#: templates/upgrade.php:141
+msgid "USD"
+msgstr ""
+
+#: templates/upgrade.php:145
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: templates/upgrade.php:147
+msgid ""
+"Dedicated Support for "
+"Premium Users"
+msgstr ""
+
+#: templates/upload-form.php:29
+msgid ""
+"CSV Importer Plus for ACF"
+msgstr ""
+
+#: templates/upload-form.php:32
+msgid "Post Type:"
+msgstr ""
+
+#: templates/upload-form.php:42
+msgid "Chunk Size:"
+msgstr ""
+
+#: templates/upload-form.php:44
+msgid "10"
+msgstr ""
+
+#: templates/upload-form.php:45
+msgid "20"
+msgstr ""
+
+#: templates/upload-form.php:46
+msgid "30"
+msgstr ""
+
+#: templates/upload-form.php:47
+msgid "40"
+msgstr ""
+
+#: templates/upload-form.php:48
+msgid "50"
+msgstr ""
+
+#: templates/upload-form.php:49
+msgid "60"
+msgstr ""
+
+#: templates/upload-form.php:50
+msgid "70"
+msgstr ""
+
+#: templates/upload-form.php:51
+msgid "80"
+msgstr ""
+
+#: templates/upload-form.php:52
+msgid "90"
+msgstr ""
+
+#: templates/upload-form.php:53
+msgid "100"
+msgstr ""
+
+#: templates/upload-form.php:57
+msgid "Upload CSV File:"
+msgstr ""
+
+#: templates/upload-form.php:63
+msgid "Update"
+msgstr ""
+
+#: templates/upload-form.php:65
+msgid ""
+"Check only to update "
+"existing posts/pages. "
+"Must include post ID "
+"column in CSV."
+msgstr ""
+
+#: templates/upload-form.php:67
+msgid "Next"
+msgstr ""
